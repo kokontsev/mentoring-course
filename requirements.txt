@@ -16,3 +16,8 @@ httpx>=0.27
 # FastAPI и Pydantic
 fastapi[standard]>=0.110
 pydantic>=2.7
+
+# Данные и графики (week_07+)
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.9
